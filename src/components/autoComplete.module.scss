@@ -1,0 +1,16 @@
+.autoComplete{
+    width: 250px;
+    position: relative;
+    left: 50px;
+    input{
+        height: 30px;
+        width: 100%;
+        text-align: center;
+    }
+}
+.optionHolder{
+    position: absolute;
+    left: 0;
+    top: 40x;
+    width: 100%;
+}
